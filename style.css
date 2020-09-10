@@ -3,3 +3,12 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1, img{
+  margin: 0 auto;
+}
+
+a {
+  padding: 0 10px;
+  background-color: blue;
+}
